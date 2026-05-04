@@ -1,0 +1,8 @@
+D:\TMS\TMS.API\obj\Debug\net10.0\TMS.API.csproj.AssemblyReference.cache
+D:\TMS\TMS.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\TMS\TMS.API\obj\Debug\net10.0\TMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMS\TMS.API\obj\Debug\net10.0\TMS.API.AssemblyInfoInputs.cache
+D:\TMS\TMS.API\obj\Debug\net10.0\TMS.API.AssemblyInfo.cs
+D:\TMS\TMS.API\obj\Debug\net10.0\TMS.API.csproj.CoreCompileInputs.cache
+D:\TMS\TMS.API\obj\Debug\net10.0\TMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\TMS\TMS.API\obj\Debug\net10.0\TMS.API.MvcApplicationPartsAssemblyInfo.cache
